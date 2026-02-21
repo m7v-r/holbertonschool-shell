@@ -1,2 +1,2 @@
-printf '#!/bin/bash\necho "Best School" > "*\\ \x27\"Best School\"\x27 \\*$\?\*\*\*\*\*:)"' > 7-file
-
+#!/bin/bash
+echo "Best School" > "*\ '\"Best School\"' \*$\?\*\*\*\*\*:)"
